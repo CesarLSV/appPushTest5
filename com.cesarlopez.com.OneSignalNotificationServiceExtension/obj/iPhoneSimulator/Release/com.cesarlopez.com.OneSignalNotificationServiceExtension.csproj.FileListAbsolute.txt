@@ -1,0 +1,17 @@
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/bin/iPhoneSimulator/Release/com.cesarlopez.com.OneSignalNotificationServiceExtension.dll
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/bin/iPhoneSimulator/Release/com.cesarlopez.com.OneSignalNotificationServiceExtension.pdb
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/bin/iPhoneSimulator/Release/Com.OneSignal.Abstractions.dll
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/bin/iPhoneSimulator/Release/Com.OneSignal.dll
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/bin/iPhoneSimulator/Release/OneSignal.iOS.Binding.dll
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/bin/iPhoneSimulator/Release/Com.OneSignal.Abstractions.pdb
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/bin/iPhoneSimulator/Release/Com.OneSignal.pdb
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/bin/iPhoneSimulator/Release/OneSignal.iOS.Binding.pdb
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/obj/iPhoneSimulator/Release/device-builds/iphone10.4-11.4/actool/_PartialAppManifest.items
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/obj/iPhoneSimulator/Release/device-builds/iphone10.4-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/obj/iPhoneSimulator/Release/device-builds/iphone10.4-11.4/coremlc/_PartialAppManifest.items
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/obj/iPhoneSimulator/Release/device-builds/iphone10.4-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/obj/iPhoneSimulator/Release/device-builds/iphone10.4-11.4/optimized/
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/obj/iPhoneSimulator/Release/com.cesarlopez.com.OneSignalNotificationServiceExtension.csprojResolveAssemblyReference.cache
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/obj/iPhoneSimulator/Release/com.cesarlopez.com.OneSignalNotificationServiceExtension.csproj.CoreCompileInputs.cache
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/obj/iPhoneSimulator/Release/com.cesarlopez.com.OneSignalNotificationServiceExtension.dll
+/Users/monitor/Documents/CL/appPushTest5/com.cesarlopez.com.OneSignalNotificationServiceExtension/obj/iPhoneSimulator/Release/com.cesarlopez.com.OneSignalNotificationServiceExtension.pdb

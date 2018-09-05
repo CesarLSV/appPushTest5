@@ -1,0 +1,8 @@
+/Users/monitor/Documents/CL/appPushTest5/appPushTest5/bin/Release/netstandard2.0/appPushTest5.deps.json
+/Users/monitor/Documents/CL/appPushTest5/appPushTest5/bin/Release/netstandard2.0/appPushTest5.dll
+/Users/monitor/Documents/CL/appPushTest5/appPushTest5/bin/Release/netstandard2.0/appPushTest5.pdb
+/Users/monitor/Documents/CL/appPushTest5/appPushTest5/obj/Release/netstandard2.0/appPushTest5.csproj.CoreCompileInputs.cache
+/Users/monitor/Documents/CL/appPushTest5/appPushTest5/obj/Release/netstandard2.0/appPushTest5.AssemblyInfoInputs.cache
+/Users/monitor/Documents/CL/appPushTest5/appPushTest5/obj/Release/netstandard2.0/appPushTest5.AssemblyInfo.cs
+/Users/monitor/Documents/CL/appPushTest5/appPushTest5/obj/Release/netstandard2.0/appPushTest5.dll
+/Users/monitor/Documents/CL/appPushTest5/appPushTest5/obj/Release/netstandard2.0/appPushTest5.pdb

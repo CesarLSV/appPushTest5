@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B57A7844-314B-40F4-8DB0-5AAD7D25D664}|Default">
+  <MonoDevelop.Ide.ItemProperties.com.cesarlopez.com.OneSignalNotificationServiceExtension automaticSigning="False" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="appPushTest5.iOS/Info.plist">
+    <Files>
+      <File FileName="appPushTest5/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="appPushTest5.Android/MainActivity.cs" Line="28" Column="1" />
+      <File FileName="appPushTest5/App.xaml" Line="5" Column="15" />
+      <File FileName="appPushTest5/App.xaml.cs" Line="14" Column="13" />
+      <File FileName="appPushTest5.iOS/AppDelegate.cs" Line="28" Column="40" />
+      <File FileName="appPushTest5.iOS/Main.cs" Line="21" Column="1" />
+      <File FileName="appPushTest5.iOS/Info.plist" />
+      <File FileName="com.cesarlopez.com.OneSignalNotificationServiceExtension/NotificationService.cs" Line="15" Column="60" />
+      <File FileName="com.cesarlopez.com.OneSignalNotificationServiceExtension/Info.plist" />
+      <File FileName="appPushTest5.Android/Properties/AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.appPushTest5.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F7288E70-F781-4D66-A6D4-B4526404BCC9" automaticSigning="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="ZP7NJ4DPX7" TeamId="2BP5GF7CB2" />
+  </MonoDevelop.Ide.ItemProperties.appPushTest5.iOS>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.appPushTest5.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+</Properties>
